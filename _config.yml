@@ -4,7 +4,7 @@ subtitle: "CIS 2019: Fundamentals of Computer Graphics"
 description: |
     Computer graphics are pictures and films created using computers. Usually, the term refers to computer-generated image data created with the help of specialized graphical hardware and software. It is a vast and recently developed area of computer science. The phrase was coined in 1960, by computer graphics researchers Verne Hudson and William Fetter of Boeing. It is often abbreviated as CG, though sometimes erroneously referred to as computer-generated imagery (CGI). Some topics in computer graphics include user interface design, sprite graphics, vector graphics, 3D modeling, shaders, GPU design, implicit surface visualization with ray tracing, and computer vision, among others. The overall methodology depends heavily on the underlying sciences of geometry, optics, and physics.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://qiaofengmarco.github.io/CIS2019" # the base hostname & protocol for your site
+url: "https://github.com/qiaofengmarco/CIS2019" # the base hostname & protocol for your site
 
 authorurl: "https://www2.eecs.berkeley.edu/Faculty/Homepages/barsky.html"
 
