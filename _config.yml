@@ -1,31 +1,12 @@
 # Site settings
-title: Course Website
-subtitle: Title of the Course
+title: Home
+subtitle: "CIS 2019: Fundamentals of Computer Graphics" 
 description: |
-    Add a description of your course. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Etiam fermentum massa id justo varius, vitae blandit nibh aliquet. 
-    Nam consequat accumsan massa id lacinia. Proin ac placerat neque. Vivamus ornare eget tortor ac tincidunt. 
-    Mauris semper viverra dui in molestie. Proin bibendum metus orci, quis sollicitudin ligula pretium non. 
-    Integer nec lacus eget neque laoreet semper. Pellentesque eu dolor rutrum, consectetur enim nec, fermentum odio. 
-    Duis venenatis metus cursus, ultrices nulla in, dapibus urna. Fusce pellentesque eros sed justo viverra ultricies. 
-    Morbi porttitor dui ut erat congue accumsan. Donec eget turpis quam. Nam quis lobortis nisl. 
-    Pellentesque varius tincidunt purus, dictum sodales leo suscipit quis. 
-    Proin ullamcorper tristique nisi, quis hendrerit turpis. Donec non congue velit. 
-    Praesent accumsan odio egestas, mollis lorem eget, euismod arcu. 
+    Computer graphics are pictures and films created using computers. Usually, the term refers to computer-generated image data created with the help of specialized graphical hardware and software. It is a vast and recently developed area of computer science. The phrase was coined in 1960, by computer graphics researchers Verne Hudson and William Fetter of Boeing. It is often abbreviated as CG, though sometimes erroneously referred to as computer-generated imagery (CGI). Some topics in computer graphics include user interface design, sprite graphics, vector graphics, 3D modeling, shaders, GPU design, implicit surface visualization with ray tracing, and computer vision, among others. The overall methodology depends heavily on the underlying sciences of geometry, optics, and physics.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://course-website.svmiller.com" # the base hostname & protocol for your site
-syllabus: "https://github.com/svmiller/svm-r-markdown-templates/blob/master/svm-rmarkdown-syllabus-example.pdf"
-githubdir: "svmiller/course-website"
 
-# Author/user information
-email: svmille@clemson.edu
-twitter_username: stevenvmiller
-github_username:  svmiller
-authorurl: "http://svmiller.com"
-address: |
-    Department of Political Science
-    232 Brackett Hall
-    Clemson, SC 29634-1354
+authorurl: "https://www2.eecs.berkeley.edu/Faculty/Homepages/barsky.html"
 
 
 # Build settings
