@@ -8,4 +8,4 @@ permalink: ./course-materials/
 
 ## Book
 
-Hearn, Baker, Carithers. 2011. [Computer Graphics with Open GL, Forth Edition](https://www.pearson.com/us/higher-education/program/Hearn-Computer-Graphics-with-Open-GL-4th-Edition/PGM28484.html). Pearson.
+Hearn, Baker, Carithers. 2011. [Computer Graphics with Open GL, Fourth Edition](https://www.pearson.com/us/higher-education/program/Hearn-Computer-Graphics-with-Open-GL-4th-Edition/PGM28484.html). Pearson.
