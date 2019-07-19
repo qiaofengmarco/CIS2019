@@ -4,7 +4,7 @@ title: Course Materials
 permalink: ./course-materials/
 ---
 
-{% include image.html url="./_images/hearn_and_baker.png" caption="The Textbook" width=300 align="right" %}
+{% include image.html url="../_images/hearn_and_baker.png" caption="The Textbook" width=300 align="right" %}
 
 ## Book
 
