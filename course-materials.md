@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course Materials
-permalink: /course-materials/
+permalink: ./course-materials/
 ---
 
 {% include image.html url="./_images/hearn_and_baker.png" caption="The Textbook" width=300 align="right" %}
