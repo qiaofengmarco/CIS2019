@@ -1,4 +1,2 @@
-- title: "Sample .Rmd File"
-  filename: Untitled
-  dirname: untitled-lecture
-  tldr: "This is just a sample .rmd file to illustrate the use of the lectures.yml file."
+- title: "Lecture 1: A Survey of Computer Graphics"
+  filename: A Survey of Computer Graphics
