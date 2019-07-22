@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<div class="post">
+
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+    <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+    <div id="gitalk-container"></div>     <script type="text/javascript">
+        var gitalk = new Gitalk({
+        clientID: 'b74391fe65f0a8e54efe',
+        clientSecret: '90b9235de74ff5084f78324a1b0da6ff7abd9c86',
+        repo: 'https://qiaofengmarco.github.io/CIS2019/',
+        owner: 'qiaofengmarco',
+        admin: ['qiaofengmarco'],
+        id:decodeURI(window.location.pathname),
+    });
+    gitalk.render('gitalk-container');
+    </script> 
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>
