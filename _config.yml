@@ -17,6 +17,14 @@ permalink: blog/:year/:month/:title
 excerpt_separator: "<!--more-->"
 
 include: ['/_images', '/_css']
+gitalk:
+  enable: true
+  githubID: qiaofengmarco
+  repo: CIS2019
+  ClientID: b74391fe65f0a8e54efe
+  ClientSecret: 90b9235de74ff5084f78324a1b0da6ff7abd9c86
+  adminUser: qiaofengmarco
+  distractionFreeMode: true
 
 # SEO stuff
 # google_author: ""
