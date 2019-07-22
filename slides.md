@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Slides
-permalink: /slides/
+permalink: ./slides/
 ---
 
 <ul id="archive">
